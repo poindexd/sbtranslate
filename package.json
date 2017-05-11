@@ -1,0 +1,14 @@
+{
+  "name": "sbtranslate",
+  "version": "1.0.0",
+  "description": "Translate Survey Builder surveys to Hotpath format",
+  "main": "index.js",
+  "author": "dokkebi",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
